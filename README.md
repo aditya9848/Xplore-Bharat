@@ -1,4 +1,4 @@
-# 🇮🇳 Xplore Bharat - AI Travel Planner for India 🧭✨
+# Xplore Bharat - AI Travel Planner for India 🧭✨
 
 **Xplore Bharat** is a smart, AI-powered travel planner that helps you explore India like never before! From suggesting itineraries to planning accommodations, it’s your one-stop platform for organizing unforgettable travel experiences across India. 🌍
 
